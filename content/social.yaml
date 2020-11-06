@@ -1,0 +1,42 @@
+- name: linkedin
+  url: https://www.linkedin.com/in/akhilh2o/
+
+- name: twitter
+  url: https://twitter.com/akhilh2o
+
+- name: facebook
+  url: https://www.facebook.com/akhilh2o
+
+- name: instagram
+  url: https://www.instagram.com/akhilh2o/
+
+- name: dribbble
+  url: https://dribbble.com/akhilh2o
+
+- name: behance
+  url: https://www.behance.net/akhilh2o/
+
+- name: producthunt
+  url:
+
+- name: github
+  url: https://github.com/akhilh2o
+
+- name: goodreads
+  url:
+
+- name: xing
+  url:
+
+- name: youtube
+  url: https://www.youtube.com/channel/UCvFo_JznLsBvJWz_-UogKVg
+
+- name: medium
+  url: https://medium.com/@akhilh2o
+
+# - name: dev
+#   url: https://dev.to/akhilh2o
+
+# - name: pinterest
+#   url: https://tr.pinterest.com/akhilh2o/
+

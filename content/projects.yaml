@@ -1,0 +1,37 @@
+- name: Birthday Card
+  url: https://birth-card.netlify.app/
+  description: Override the digital divide with additional clickthroughs from DevOps. User generated content in real-time will have multiple touchpoints for offshoring.
+  status: live
+  tags:
+    - JavaScript
+    - React
+    - HTML
+    - CSS
+  icon: github
+  image: images/birthday-card.png
+
+- name: Outbound Tour
+  url: https://onbound-tour.netlify.app/
+  description: Leverage agile frameworks to provide a robust synopsis for high level overviews.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - React
+    - HTML
+    - CSS
+  icon: website
+  image: images/outboundtour.png
+
+- name: Messanger Clone
+  url: https://akhil-messenger-clone.web.app/
+  description: Leverage agile frameworks react with firebase database to provide a robust synopsis for high level chatting performance.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - React
+    - HTML
+    - CSS
+  icon: website
+  image: images/messanger-clone.png
