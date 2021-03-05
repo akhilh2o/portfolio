@@ -19,8 +19,8 @@
 - name: github
   url: https://github.com/akhilh2o
 
-- name: youtube
-  url: https://www.youtube.com/channel/UCvFo_JznLsBvJWz_-UogKVg
+# - name: youtube
+#   url: https://www.youtube.com/channel/UCvFo_JznLsBvJWz_-UogKVg
 
 - name: medium
   url: https://medium.com/@akhilh2o
