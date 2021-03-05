@@ -35,3 +35,16 @@
     - CSS
   icon: website
   image: images/messanger-clone.png
+  
+  - name: Messanger Clone
+  url: https://akhil-messenger-clone.web.app/
+  description: Leverage agile frameworks react with firebase database to provide a robust synopsis for high level chatting performance.
+  status: live
+  tags:
+    - JavaScript
+    - HTML
+    - React
+    - HTML
+    - CSS
+  icon: website
+  image: images/messanger-clone.png
