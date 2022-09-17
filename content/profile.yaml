@@ -4,9 +4,9 @@
   email: d.akhil.gupta@gmail.com
   profession: Web Developer
   image: images/akhil.jpg
-  location: Lucknow, India
+  location: Noida, India
   relocation: true
-  company: WebMento Pvt. Ltd.
+  company: Codeflies Technologies Pvt. Ltd.
   for_hire: true
   focus: Learning React & Angular
   focus_url: https://reactjs.org
@@ -15,18 +15,18 @@
 
     User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
   skills:
-    - JavaScript
+    - JavaScript / TypeScript
     - HTML / CSS
-    - PHP
+    - PHP / Laravel / CI
     - MYSQL / SQL
     - Python
     - JQuery
   tools:
-    - React
-    - VSCode
     - Angular
-    - Vue
+    - React
     - Gatsby
+    - Vue
+    - VSCode
   budget:
     currency: ₹
     min: 5

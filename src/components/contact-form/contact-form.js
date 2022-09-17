@@ -7,6 +7,11 @@ const ContactForm = ({ email, budget }) => {
   const [selectedBudget, setSelectedBudget] = useState(budget.default)
   const inquiryDetails = useRef(null)
 
+  // const [state, handleSubmit] = useForm("myyoypgr");
+  // if (state.succeeded) {
+  //     return <p>Thanks for joining!</p>;
+  // }
+
   return (
     <>
       <h5
@@ -18,6 +23,7 @@ const ContactForm = ({ email, budget }) => {
 
       <form
         action={`https://formspree.io/${email}`}
+        // onSubmit={handleSubmit}
         className="flex flex-wrap"
         method="post"
       >
